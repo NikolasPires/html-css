@@ -1,0 +1,14 @@
+h1 {
+    display: inline-block;
+    background-color: lightcyan;
+    height: 15rem;
+    width: 15rem;
+    border: 0.6rem solid rgb(3, 83, 83);
+
+    padding: 1rem;
+    margin: auto;
+    outline-width: 5px;
+    outline-style: dashed;
+    outline-color: darkslategray;
+
+}

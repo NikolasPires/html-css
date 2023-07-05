@@ -1,0 +1,40 @@
+* {
+    margin: 0;
+    padding: 0;
+    border: 0;
+}
+body {
+    background-color: #57408F;
+}
+img{
+    width: 225px;
+    height: 225px;
+}
+
+#header {
+    border-top: 10px;
+    border-bottom: 10px;
+    color: #DBD479;
+    justify-content: center;
+    align-items: center;
+    text-align: center;
+}
+#Images {
+    display: flex;
+    flex-direction: row;
+    justify-content: center;
+    
+}
+#button {
+    display: flex;
+    justify-content: center;
+
+    height: 5rem;
+}
+#button a {
+    border: 3rem;
+    border-color: rgb(189, 0, 0);
+    font-size: 3rem;
+    color: #9579DB;
+    text-decoration: none;
+}
